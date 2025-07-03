@@ -151,17 +151,12 @@ export default function RootLayout() {
                 <Stack.Screen name="cadastro" options={{ headerShown: false }} />
                 <Stack.Screen name="telas-extras/recuperar-senha" options={{ headerShown: false }} />
                 <Stack.Screen name="professor/index" options={{ headerShown: false }} />
-                <Stack.Screen name="professor/criar-avaliacao" options={{ headerShown: false }} />
-                <Stack.Screen name="professor/avaliacao-automatica" options={{ headerShown: false }} />
                 <Stack.Screen name="professor/relatorios" options={{ headerShown: false }} />
                 <Stack.Screen name="aluno/index" options={{ headerShown: false }} />
-                <Stack.Screen name="aluno/responder-avaliacao" options={{ headerShown: false }} />
                 <Stack.Screen name="aluno/historico" options={{ headerShown: false }} />
                 <Stack.Screen name="professor/perfil" options={{ headerShown: false }} />
                 <Stack.Screen name="aluno/perfil" options={{ headerShown: false }} />
                 <Stack.Screen name="telas-extras/info" options={{ headerShown: false }} />
-                <Stack.Screen name="aluno/escanear" options={{ headerShown: false }} />
-                <Stack.Screen name="professor/qrcode" options={{ headerShown: false }} />
                 <Stack.Screen name="aluno/sala-reflexao" options={{ headerShown: false }} />
                 <Stack.Screen name="+not-found" />
               </Stack>

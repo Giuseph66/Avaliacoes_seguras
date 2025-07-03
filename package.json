@@ -24,6 +24,7 @@
     "expo-blur": "~14.1.5",
     "expo-camera": "~16.1.9",
     "expo-constants": "~17.1.6",
+    "expo-device": "^7.1.4",
     "expo-font": "~13.3.1",
     "expo-haptics": "~14.1.4",
     "expo-image": "~2.3.0",
@@ -33,6 +34,7 @@
     "expo-media-library": "^17.1.7",
     "expo-print": "^14.1.4",
     "expo-router": "~5.1.1",
+    "expo-screen-capture": "~7.1.5",
     "expo-screen-orientation": "~8.1.7",
     "expo-sharing": "^13.1.5",
     "expo-splash-screen": "~0.30.9",
@@ -53,8 +55,7 @@
     "react-native-screens": "~4.11.1",
     "react-native-web": "~0.20.0",
     "react-native-webview": "13.13.5",
-    "zustand": "^5.0.6",
-    "expo-screen-capture": "~7.1.5"
+    "zustand": "^5.0.6"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
